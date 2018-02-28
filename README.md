@@ -10,7 +10,7 @@ cd jhealthz && \
 gradle appRun
 # wait to see that it is running, and then in another terminal
 curl -i http://localhost:8080/jhealthz/
-```sh
+```
 
 To build:
 ```sh
